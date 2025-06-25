@@ -1,5 +1,4 @@
-# Práctica 3 – Diseño de interfaz gráfica para el control de salidas en
-Controllino
+# Práctica 3 – Diseño de interfaz gráfica para el control de salidas en Controllino
 
 Esta práctica implementa un sistema interactivo donde una matriz de 9 LEDs es controlada mediante botones físicos o entradas en una **pantalla HMI STONE**, utilizando una **máquina de estados finita (FSM)** y lógica no bloqueante en un **Controllino Mega**. Se utilizan estructuras para representar los LEDs, control por interrupciones y comunicación serie para el intercambio de datos entre el PLC y la HMI.
 
