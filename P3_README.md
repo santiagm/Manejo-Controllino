@@ -52,5 +52,5 @@ El sistema debe garantizar que, si un LED está apagado por el botón físico, n
 aunque se modifique el SpinBox correspondiente (hasta que el botón vuelva a presionarse).
 
 ### Archivos
-- [`semaforo.ino`](./Practica 3 con reto.ino): Código completo de la máquina de estados y lógica de temporización.
+- [`semaforo.ino`](./Practica3_reto.ino): Código completo de la máquina de estados y lógica de temporización.
 - [`Interfaz_HMI`](./boton_p3.st): Interfaz gráfica.
