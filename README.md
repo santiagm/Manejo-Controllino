@@ -31,7 +31,12 @@ Una matriz de 9 LEDs es controlada por botones físicos. Dependiendo del botón 
 
 ---
 
-### 🔴 Práctica 4 – Control de motor con PWM y PID (si aplica)
-(Completa esta sección si implementaste otra práctica relacionada con control de velocidad u otras aplicaciones de automatización).
+### Informe
+Las decripciones descripciones y resultados obtenidos se muestra en: (./P4_1_conDig.pdf)
 
 ---
+
+## Autores
+
+E. Bermeo & S. Guillén – Estudiantes de Ingeniería en Telecomunicaciones  
+Universidad De Cuenca – Junio 2025
