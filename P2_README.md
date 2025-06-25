@@ -29,6 +29,10 @@ Simulación de un cruce de tráfico controlado por dos semáforos (vertical y ho
 - Encapsulación de semáforos mediante estructuras `struct Semaforo`.
 - Función auxiliar `setSemaforo()` para modularidad.
 
+### Diagrama de estados
+
+![FSM Semáforo](./images/ME_semaforo.jpg)
+
 ### Archivos
 - [`semaforo.ino`](./semaforo.ino): Código completo de la máquina de estados y lógica de temporización.
 
