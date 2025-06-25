@@ -32,7 +32,7 @@ Una matriz de 9 LEDs es controlada por botones físicos. Dependiendo del botón 
 ---
 
 ### Informe
-Las decripciones descripciones y resultados obtenidos se muestra en: (./P4_1_conDig.pdf)
+Las decripciones descripciones y resultados obtenidos se muestra en: [`P4_1_conDig.pdf`](./P4_1_conDig.pdf)
 
 ---
 
