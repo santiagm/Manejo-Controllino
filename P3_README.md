@@ -50,3 +50,7 @@ determinado por el valor actual del SpinBox asociado.
 
 El sistema debe garantizar que, si un LED está apagado por el botón físico, no se active
 aunque se modifique el SpinBox correspondiente (hasta que el botón vuelva a presionarse).
+
+### Archivos
+- [`semaforo.ino`](./Practica3.ino): Código completo de la máquina de estados y lógica de temporización.
+- [`Interfaz_HMI`](./boton_p3): Interfaz gráfica.
