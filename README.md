@@ -27,7 +27,7 @@ Se simula un cruce de dos vías con semáforos, alternando entre 4 estados (`A_V
 ### Práctica 3 – Secuencia controlada por botones
 Una matriz de 9 LEDs es controlada por botones físicos. Dependiendo del botón presionado, se activa una secuencia en espiral normal o inversa. Se utiliza FSM para el cambio de estados y se gestiona con `millis()`.
 
-🔗 [`Ver README`](./practica-3-secuencia-botones/README.md)
+🔗 [`Ver README`](./P3_README.md)
 
 ---
 
