@@ -10,21 +10,21 @@ El **Controllino** es un PLC programable compatible con Arduino, diseñado para 
 
 ## Prácticas incluidas
 
-### 🟢 Práctica 1 – Secuencia de LEDs
+### Práctica 1 – Secuencia de LEDs
 Se implementa una secuencia automática de encendido de 9 LEDs. La lógica se basa en un ciclo controlado por temporización no bloqueante (`millis()`), encendiendo un LED a la vez en forma secuencial.
 
-🔗 [`Ver README`](./practica-1-secuencia-leds/README.md)
+🔗 [`Ver README`](./P1_README.md)
 
 ---
 
-### 🟡 Práctica 2 – Control de semáforo con FSM
+### Práctica 2 – Control de semáforo con FSM
 Se simula un cruce de dos vías con semáforos, alternando entre 4 estados (`A_VERDE`, `A_AMARILLO`, `B_VERDE`, `B_AMARILLO`). Se emplea una máquina de estados finita y temporización no bloqueante para alternar entre luces con lógica segura.
 
-🔗 [`Ver README`](./practica-2-semaforo/README.md)
+🔗 [`Ver README`](./P2_README.md)
 
 ---
 
-### 🔵 Práctica 3 – Secuencia controlada por botones
+### Práctica 3 – Secuencia controlada por botones
 Una matriz de 9 LEDs es controlada por botones físicos. Dependiendo del botón presionado, se activa una secuencia en espiral normal o inversa. Se utiliza FSM para el cambio de estados y se gestiona con `millis()`.
 
 🔗 [`Ver README`](./practica-3-secuencia-botones/README.md)
