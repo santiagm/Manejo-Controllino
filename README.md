@@ -31,6 +31,13 @@ Una matriz de 9 LEDs es controlada por botones físicos. Dependiendo del botón 
 
 ---
 
+### Práctica 4 – Secuencia controlada por botones
+El usuario regula la intensidad (duty cycle PWM) mediante un slider en la HMI, y el sistema mide y muestra la velocidad actual en revoluciones por minuto (RPM) a través de conteo de pulsos de un motor DC.
+
+🔗 [`Ver README`](./P4_README.md)
+
+---
+
 ### Informe
 Las decripciones descripciones y resultados obtenidos se muestra en: [`P4_1_conDig.pdf`](./P4_1_conDig.pdf)
 
