@@ -37,7 +37,7 @@ En esta práctica se implementa un sistema de control de velocidad utilizando un
 
 Acontinuación se muestra un ejemplo del la respuesta esperada del sistema, una vez implementado en el HMI
 
-![Respuesta de planta](./p4_3intento/resp_motor.jpg)
+![Respuesta de planta](./images/resp_motor.jpg)
 
 ## Funcion de transferencia implementada
 
